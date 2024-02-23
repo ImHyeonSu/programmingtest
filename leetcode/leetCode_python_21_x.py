@@ -12,25 +12,46 @@ class Solution:
     def mergeTwoLists(
         self, list1: Optional[ListNode], list2: Optional[ListNode]
     ) -> Optional[ListNode]:
+        
+        list1_head = ListNode()
+        current = list1_head
+        for val in list1:
+            current.next = ListNode(val)
+            current = current.next
+
+        list2_head = ListNode()
+        current = list2_head
+        for val in list2:
+            current.next = ListNode(val)
+            current = current.next
+
+
         dummy = ListNode()
         tail = dummy
-        while list1 and list2:
-            if list1.val < list2.val:
-                tail.next = list1
-                list1 = list1.next
+        while list1_head and list2_head:
+            if list1_head.val < list2_head.val:
+                tail.next = list1_head
+                list1_head = list1_head.next
             else:
-                tail.next = list2
-                list2 = list2.next
+                tail.next = list2_head
+                list2_head = list2_head.next
 
             tail = tail.next
 
-        if list1:
-            tail.next = list1
-        if list2:
-            tail.next = list2
+        if list1_head:
+            tail.next = list1_head
+        if list2_head:
+            tail.next = list2_head
 
         return dummy.next
 
+
+a = Solution()
+result = a.mergeTwoLists([1,2,4],[1,3,4])
+
+while result:
+    print(result.val, end=" -> ")
+    result = result.next
 
 # tail.next = l1 또는 tail.next = l2에서 tail.next에 대입하는 것은 현재 tail이 가리키는 노드의 next를 새로운 노드로 설정하는 것을 의미합니다. 이로써 현재까지 병합된 리스트의 끝에 새로운 노드가 추가된다고 이해하면 됩니다.
 
