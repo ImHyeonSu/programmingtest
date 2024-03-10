@@ -2,6 +2,9 @@ class Solution:
     def summaryRanges(self, nums: list[int]) -> list[str]:
         result = []
         last_value = []
+        if len(nums) == 1:
+            result.append(str(nums[0]))
+            return result
         for index, value in enumerate(nums):
             if index == 0:
                 last_value.append(value)
@@ -23,4 +26,4 @@ class Solution:
         return result
 
 a = Solution();
-print(a.summaryRanges( [0,1,2,4,5,7]));
+print(a.summaryRanges( [1]));
