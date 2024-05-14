@@ -1,4 +1,4 @@
-class MyStack:
+class MyQueue:
     def __init__(self):
         self.my_stack = []
 
@@ -6,12 +6,12 @@ class MyStack:
         self.my_stack.append(x)
 
     def pop(self) -> int:
-        last_value = self.my_stack[-1]
-        del self.my_stack[-1]
+        last_value = self.my_stack[0]
+        del self.my_stack[0]
         return last_value
 
-    def top(self) -> int:
-        return self.my_stack[-1]
+    def peek(self) -> int:
+        return self.my_stack[0]
 
     def empty(self) -> bool:
         return len(self.my_stack) == 0
