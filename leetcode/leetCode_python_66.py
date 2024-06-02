@@ -4,7 +4,7 @@ class Solution:
         for i in range(0, len(digits)):
             result += digits[i] * (10 ** (len(digits) - i - 1))
         result += 1
-        result_list = line = list(map(int, str(result)))
+        result_list = list(map(int, str(result)))
         return result_list
 
 

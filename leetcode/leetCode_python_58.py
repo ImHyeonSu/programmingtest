@@ -4,7 +4,6 @@ class Solution:
         count = 0
         if len(s) == 1 and s != " ":
             return 1
-        print(s)
         for i in range(len(s) - 1, -1, -1):
             if s[i] == " ":
                 break
