@@ -1,6 +1,6 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        # roop
+        # loop
         while len(str(num)) > 1:
             # 条件
             return_num = 0

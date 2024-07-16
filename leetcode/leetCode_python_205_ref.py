@@ -14,4 +14,4 @@ class Solution(object):
 
 
 a = Solution();
-print(a.isIsomorphic("paper","title"));
+print(a.isIsomorphic("badc","baba"));

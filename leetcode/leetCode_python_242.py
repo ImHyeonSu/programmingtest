@@ -16,4 +16,4 @@ class Solution:
             return True
         return False
 a = Solution();
-print(a.isAnagram("rat","car"));
+print(a.isAnagram("anagram","nagaram"));

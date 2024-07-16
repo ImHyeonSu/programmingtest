@@ -12,5 +12,5 @@ class Solution:
         return False
 
 
-a = Solution();
-print(a.containsNearbyDuplicate([1,2,3,1,2,3], 2));
+a = Solution()
+print(a.containsNearbyDuplicate([1, 2, 3, 1, 2, 3], 2))

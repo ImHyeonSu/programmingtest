@@ -12,13 +12,5 @@ class Solution:
             else:
                 return False
         return False
-        # def isUgly(num):
-        #     if num <= 0:
-        #         return False
-        #     primes = [2, 3, 5]
-        #     for prime in primes:
-        #         while num % prime == 0:
-        #             num //= prime
-        #     return num == 1
 a = Solution();
 print(a.isUgly(-2147483648));
