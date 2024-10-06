@@ -8,8 +8,6 @@
 --     AND description != "boring"
 -- ORDER BY
 --     rating DESC
-
-
 SELECT
     id,
     movie,
