@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0777-toeplitz-matrix) |
 ## Matrix
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
