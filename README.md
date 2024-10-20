@@ -65,12 +65,14 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ImHyeonSu/programmingtest/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
