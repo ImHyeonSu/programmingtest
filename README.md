@@ -9,6 +9,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ImHyeonSu/programmingtest/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ImHyeonSu/programmingtest/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
@@ -173,4 +175,8 @@
 | [0619-biggest-single-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ImHyeonSu/programmingtest/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/ImHyeonSu/programmingtest/tree/master/0627-swap-salary) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
