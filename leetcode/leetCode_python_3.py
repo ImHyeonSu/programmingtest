@@ -4,10 +4,11 @@ class Solution:
         result_len = 0
         for value in s:
             if value in result:
-                result = result[result.index(value) + 1:]
+                result = result[result.index(value) + 1 :]
             result.append(value)
             result_len = max(result_len, len(result))
         return result_len
+
 
 # class Solution:
 #     def lengthOfLongestSubstring(self, s: str) -> int:
@@ -26,5 +27,5 @@ class Solution:
 #         return result_len
 
 y = Solution()
-print(y.lengthOfLongestSubstring("bpfbhmipx")) #"pwwkew" #au # " " "abcabcbb" "bbbbb"
+print(y.lengthOfLongestSubstring("pwwkew"))  # "pwwkew" #au # " " "abcabcbb" "bbbbb"
 # bpfbhmipx, aabaab!bb
