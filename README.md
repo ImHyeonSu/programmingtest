@@ -152,5 +152,6 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/ImHyeonSu/programmingtest/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/ImHyeonSu/programmingtest/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
