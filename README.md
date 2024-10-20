@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/ImHyeonSu/programmingtest/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
@@ -43,6 +44,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/ImHyeonSu/programmingtest/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/ImHyeonSu/programmingtest/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0777-toeplitz-matrix) |
 ## Math
