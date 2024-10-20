@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0777-toeplitz-matrix) |
+## Math
+|  |
+| ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
