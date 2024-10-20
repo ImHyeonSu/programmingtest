@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
