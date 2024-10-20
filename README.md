@@ -44,6 +44,7 @@
 | [0015-3sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ImHyeonSu/programmingtest/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/ImHyeonSu/programmingtest/tree/master/0031-next-permutation) |
 | [0605-can-place-flowers](https://github.com/ImHyeonSu/programmingtest/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
@@ -162,6 +163,7 @@
 | [0015-3sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ImHyeonSu/programmingtest/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/ImHyeonSu/programmingtest/tree/master/0031-next-permutation) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 ## Stack
