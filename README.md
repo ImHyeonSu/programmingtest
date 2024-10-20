@@ -16,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ImHyeonSu/programmingtest/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ImHyeonSu/programmingtest/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ImHyeonSu/programmingtest/tree/master/0733-flood-fill) |
