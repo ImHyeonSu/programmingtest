@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ImHyeonSu/programmingtest/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ImHyeonSu/programmingtest/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ImHyeonSu/programmingtest/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ImHyeonSu/programmingtest/tree/master/0745-find-smallest-letter-greater-than-target) |
