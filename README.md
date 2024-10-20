@@ -19,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/ImHyeonSu/programmingtest/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
@@ -56,11 +58,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
 |  |
