@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/ImHyeonSu/programmingtest/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
@@ -117,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
