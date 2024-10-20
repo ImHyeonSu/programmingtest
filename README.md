@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/ImHyeonSu/programmingtest/tree/master/0661-image-smoother) |
@@ -54,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
