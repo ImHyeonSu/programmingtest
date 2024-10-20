@@ -12,6 +12,7 @@
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
 ## String Matching
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0792-binary-search](https://github.com/ImHyeonSu/programmingtest/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
 ## Matrix
 |  |
 | ------- |
