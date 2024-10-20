@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/ImHyeonSu/programmingtest/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ImHyeonSu/programmingtest/tree/master/0789-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
