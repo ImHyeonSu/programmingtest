@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/ImHyeonSu/programmingtest/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0812-rotate-string) |
