@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ImHyeonSu/programmingtest/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ImHyeonSu/programmingtest/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ImHyeonSu/programmingtest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/ImHyeonSu/programmingtest/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ImHyeonSu/programmingtest/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
