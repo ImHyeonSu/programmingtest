@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImHyeonSu/programmingtest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 ## Stack
