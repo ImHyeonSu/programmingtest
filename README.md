@@ -20,6 +20,7 @@
 | [0782-jewels-and-stones](https://github.com/ImHyeonSu/programmingtest/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0824-number-of-lines-to-write-string) |
 ## String Matching
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0824-number-of-lines-to-write-string) |
 ## Matrix
 |  |
 | ------- |
