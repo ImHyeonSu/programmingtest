@@ -35,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImHyeonSu/programmingtest/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ImHyeonSu/programmingtest/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
@@ -87,6 +88,7 @@
 | [0007-reverse-integer](https://github.com/ImHyeonSu/programmingtest/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ImHyeonSu/programmingtest/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -175,6 +177,7 @@
 | [0016-3sum-closest](https://github.com/ImHyeonSu/programmingtest/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ImHyeonSu/programmingtest/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
