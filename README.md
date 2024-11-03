@@ -22,6 +22,7 @@
 | [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/ImHyeonSu/programmingtest/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0031-next-permutation](https://github.com/ImHyeonSu/programmingtest/tree/master/0031-next-permutation) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 ## Stack
 |  |
 | ------- |
