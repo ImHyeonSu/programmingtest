@@ -255,6 +255,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0021-merge-two-sorted-lists) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
 ## Design
@@ -387,6 +388,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ImHyeonSu/programmingtest/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ImHyeonSu/programmingtest/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ImHyeonSu/programmingtest/tree/master/0342-power-of-four) |
