@@ -102,6 +102,7 @@
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ImHyeonSu/programmingtest/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ImHyeonSu/programmingtest/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/ImHyeonSu/programmingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ImHyeonSu/programmingtest/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ImHyeonSu/programmingtest/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
@@ -195,6 +196,7 @@
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/ImHyeonSu/programmingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ImHyeonSu/programmingtest/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +267,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ImHyeonSu/programmingtest/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ImHyeonSu/programmingtest/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
