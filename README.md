@@ -67,6 +67,7 @@
 | [0012-integer-to-roman](https://github.com/ImHyeonSu/programmingtest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ImHyeonSu/programmingtest/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ImHyeonSu/programmingtest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ImHyeonSu/programmingtest/tree/master/0228-summary-ranges) |
@@ -225,6 +227,7 @@
 | [0016-3sum-closest](https://github.com/ImHyeonSu/programmingtest/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
@@ -426,6 +429,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ImHyeonSu/programmingtest/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
@@ -477,4 +481,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ImHyeonSu/programmingtest/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
