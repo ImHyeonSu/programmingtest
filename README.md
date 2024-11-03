@@ -11,6 +11,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ImHyeonSu/programmingtest/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ImHyeonSu/programmingtest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ImHyeonSu/programmingtest/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ImHyeonSu/programmingtest/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0205-isomorphic-strings) |
@@ -416,4 +417,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ImHyeonSu/programmingtest/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
