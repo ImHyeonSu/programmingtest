@@ -13,6 +13,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
@@ -40,6 +41,7 @@
 | [0205-isomorphic-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
@@ -116,6 +118,7 @@
 | [0016-3sum-closest](https://github.com/ImHyeonSu/programmingtest/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
