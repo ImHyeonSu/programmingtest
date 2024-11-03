@@ -66,6 +66,7 @@
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ImHyeonSu/programmingtest/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/ImHyeonSu/programmingtest/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
@@ -97,6 +98,7 @@
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ImHyeonSu/programmingtest/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ImHyeonSu/programmingtest/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/ImHyeonSu/programmingtest/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0599-minimum-index-sum-of-two-lists) |
