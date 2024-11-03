@@ -1,6 +1,3 @@
-from typing import Optional
-
-
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
         resultdic = {}
@@ -9,4 +6,4 @@ class Solution:
                 resultdic[val] = 1
             else:
                 resultdic[val] = resultdic[val] + 1
-        print(max(resultdic,key=resultdic.get));
+        return max(resultdic,key=resultdic.get)
