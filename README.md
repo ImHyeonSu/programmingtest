@@ -106,6 +106,7 @@
 | [0035-search-insert-position](https://github.com/ImHyeonSu/programmingtest/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ImHyeonSu/programmingtest/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ImHyeonSu/programmingtest/tree/master/0228-summary-ranges) |
@@ -237,6 +238,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
