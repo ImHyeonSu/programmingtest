@@ -271,6 +271,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ImHyeonSu/programmingtest/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
 ## Design
