@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ImHyeonSu/programmingtest/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ImHyeonSu/programmingtest/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ImHyeonSu/programmingtest/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ImHyeonSu/programmingtest/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
