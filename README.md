@@ -37,6 +37,7 @@
 | [0459-repeated-substring-pattern](https://github.com/ImHyeonSu/programmingtest/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/ImHyeonSu/programmingtest/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/ImHyeonSu/programmingtest/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/ImHyeonSu/programmingtest/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0551-student-attendance-record-i) |
