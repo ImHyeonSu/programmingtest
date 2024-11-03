@@ -27,6 +27,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ImHyeonSu/programmingtest/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/ImHyeonSu/programmingtest/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/ImHyeonSu/programmingtest/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0551-student-attendance-record-i) |
@@ -70,6 +71,7 @@
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ImHyeonSu/programmingtest/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/ImHyeonSu/programmingtest/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ImHyeonSu/programmingtest/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -102,6 +104,7 @@
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ImHyeonSu/programmingtest/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ImHyeonSu/programmingtest/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/ImHyeonSu/programmingtest/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ImHyeonSu/programmingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ImHyeonSu/programmingtest/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ImHyeonSu/programmingtest/tree/master/0575-distribute-candies) |
