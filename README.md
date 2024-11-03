@@ -117,6 +117,7 @@
 | [0292-nim-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ImHyeonSu/programmingtest/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ImHyeonSu/programmingtest/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ImHyeonSu/programmingtest/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -159,6 +160,7 @@
 | [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/ImHyeonSu/programmingtest/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ImHyeonSu/programmingtest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ImHyeonSu/programmingtest/tree/master/0792-binary-search) |
 ## Depth-First Search
