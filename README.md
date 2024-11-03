@@ -42,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
@@ -61,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ImHyeonSu/programmingtest/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/ImHyeonSu/programmingtest/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +103,7 @@
 | [0231-power-of-two](https://github.com/ImHyeonSu/programmingtest/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ImHyeonSu/programmingtest/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -110,6 +113,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ImHyeonSu/programmingtest/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -121,6 +125,7 @@
 | [0018-4sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -133,6 +138,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ImHyeonSu/programmingtest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ImHyeonSu/programmingtest/tree/master/0792-binary-search) |
 ## Depth-First Search
