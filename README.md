@@ -138,6 +138,7 @@
 | [0338-counting-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ImHyeonSu/programmingtest/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/ImHyeonSu/programmingtest/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/ImHyeonSu/programmingtest/tree/master/0401-binary-watch) |
 ## Geometry
 |  |
 | ------- |
