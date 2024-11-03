@@ -16,6 +16,7 @@
 | [0020-valid-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ImHyeonSu/programmingtest/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ImHyeonSu/programmingtest/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ImHyeonSu/programmingtest/tree/master/0290-word-pattern) |
@@ -166,6 +167,7 @@
 | [0013-roman-to-integer](https://github.com/ImHyeonSu/programmingtest/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ImHyeonSu/programmingtest/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ImHyeonSu/programmingtest/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ImHyeonSu/programmingtest/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ImHyeonSu/programmingtest/tree/master/0258-add-digits) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ImHyeonSu/programmingtest/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ImHyeonSu/programmingtest/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0338-counting-bits) |
@@ -337,6 +340,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ImHyeonSu/programmingtest/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ImHyeonSu/programmingtest/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ImHyeonSu/programmingtest/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0415-add-strings) |
