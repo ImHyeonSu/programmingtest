@@ -2,7 +2,7 @@ import string
 
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
-        upper_list = list(string.ascii_uppercase);
+        upper_list = list(string.ascii_uppercase)
         
         title_len = len(columnTitle)
         
