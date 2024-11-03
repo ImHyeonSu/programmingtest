@@ -161,6 +161,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ImHyeonSu/programmingtest/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ImHyeonSu/programmingtest/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ImHyeonSu/programmingtest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ImHyeonSu/programmingtest/tree/master/0792-binary-search) |
 ## Depth-First Search
@@ -301,4 +302,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ImHyeonSu/programmingtest/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
