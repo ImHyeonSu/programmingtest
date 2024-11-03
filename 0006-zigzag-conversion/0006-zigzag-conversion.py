@@ -8,7 +8,6 @@ class Solution:
             return s
         for i in range(numRows):
             str_list.append([])
-        print(str_list)
         for var_s in s:
             if process_flag == 1 and process_count < numRows - 1:
                 str_list[process_count].append(var_s)
