@@ -83,6 +83,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ImHyeonSu/programmingtest/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/ImHyeonSu/programmingtest/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
@@ -160,6 +161,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
