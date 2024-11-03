@@ -66,6 +66,7 @@
 | [0228-summary-ranges](https://github.com/ImHyeonSu/programmingtest/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ImHyeonSu/programmingtest/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ImHyeonSu/programmingtest/tree/master/0303-range-sum-query-immutable) |
 | [0605-can-place-flowers](https://github.com/ImHyeonSu/programmingtest/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
@@ -156,6 +157,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ImHyeonSu/programmingtest/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ImHyeonSu/programmingtest/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
@@ -167,6 +169,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ImHyeonSu/programmingtest/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ImHyeonSu/programmingtest/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ImHyeonSu/programmingtest/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
