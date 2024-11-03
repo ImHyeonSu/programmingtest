@@ -102,6 +102,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ImHyeonSu/programmingtest/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ImHyeonSu/programmingtest/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/ImHyeonSu/programmingtest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ImHyeonSu/programmingtest/tree/master/0228-summary-ranges) |
@@ -233,6 +234,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ImHyeonSu/programmingtest/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
