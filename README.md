@@ -20,6 +20,7 @@
 | [0383-ransom-note](https://github.com/ImHyeonSu/programmingtest/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
@@ -161,6 +162,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
@@ -239,6 +241,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
