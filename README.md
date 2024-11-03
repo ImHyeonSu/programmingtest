@@ -17,6 +17,7 @@
 | [0290-word-pattern](https://github.com/ImHyeonSu/programmingtest/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ImHyeonSu/programmingtest/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
@@ -49,6 +50,7 @@
 | [0290-word-pattern](https://github.com/ImHyeonSu/programmingtest/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/ImHyeonSu/programmingtest/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0749-shortest-completing-word) |
@@ -278,6 +280,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ImHyeonSu/programmingtest/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
 ## Queue
 |  |
