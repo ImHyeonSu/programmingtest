@@ -66,6 +66,7 @@
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ImHyeonSu/programmingtest/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0697-degree-of-an-array) |
@@ -96,6 +97,7 @@
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ImHyeonSu/programmingtest/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ImHyeonSu/programmingtest/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ImHyeonSu/programmingtest/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/ImHyeonSu/programmingtest/tree/master/0605-can-place-flowers) |
@@ -184,6 +186,7 @@
 | [0389-find-the-difference](https://github.com/ImHyeonSu/programmingtest/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ImHyeonSu/programmingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -307,6 +310,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImHyeonSu/programmingtest/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
@@ -333,6 +337,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/ImHyeonSu/programmingtest/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
 ## Queue
 |  |
