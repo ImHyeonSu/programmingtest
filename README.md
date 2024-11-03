@@ -311,6 +311,7 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/ImHyeonSu/programmingtest/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/ImHyeonSu/programmingtest/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/ImHyeonSu/programmingtest/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0619-biggest-single-number) |
