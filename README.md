@@ -105,6 +105,7 @@
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ImHyeonSu/programmingtest/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ImHyeonSu/programmingtest/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/ImHyeonSu/programmingtest/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ImHyeonSu/programmingtest/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ImHyeonSu/programmingtest/tree/master/0506-relative-ranks) |
@@ -318,6 +319,7 @@
 | [0258-add-digits](https://github.com/ImHyeonSu/programmingtest/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ImHyeonSu/programmingtest/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/ImHyeonSu/programmingtest/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
 ## Greedy
