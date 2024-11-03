@@ -147,6 +147,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ImHyeonSu/programmingtest/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/ImHyeonSu/programmingtest/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ImHyeonSu/programmingtest/tree/master/0817-design-hashmap) |
@@ -191,6 +192,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ImHyeonSu/programmingtest/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
