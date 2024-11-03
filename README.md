@@ -23,6 +23,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/ImHyeonSu/programmingtest/tree/master/0851-goat-latin) |
 ## String Matching
 |  |
 | ------- |
