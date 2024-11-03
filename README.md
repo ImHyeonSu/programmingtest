@@ -120,6 +120,7 @@
 | [0029-divide-two-integers](https://github.com/ImHyeonSu/programmingtest/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ImHyeonSu/programmingtest/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
