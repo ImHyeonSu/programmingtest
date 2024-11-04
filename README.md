@@ -172,6 +172,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ImHyeonSu/programmingtest/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0898-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0733-flood-fill](https://github.com/ImHyeonSu/programmingtest/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0898-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -411,6 +413,7 @@
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
