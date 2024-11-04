@@ -56,6 +56,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/ImHyeonSu/programmingtest/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/ImHyeonSu/programmingtest/tree/master/0857-positions-of-large-groups) |
+| [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [0696-count-binary-substrings](https://github.com/ImHyeonSu/programmingtest/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ImHyeonSu/programmingtest/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
@@ -401,6 +404,7 @@
 | [0657-robot-return-to-origin](https://github.com/ImHyeonSu/programmingtest/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ImHyeonSu/programmingtest/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
