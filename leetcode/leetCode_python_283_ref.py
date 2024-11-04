@@ -13,7 +13,6 @@ class Solution:
                 # 0
                 nums[idx] = temp
                 zero_idx += 1
-            print(nums)
 
 y = Solution()
 print(y.moveZeroes([0,1,0,3,12]))

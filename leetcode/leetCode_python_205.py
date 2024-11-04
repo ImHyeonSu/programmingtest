@@ -17,7 +17,7 @@ class Solution:
                 result_t.append(1)
             else:
                 result_t[len(result_t) - 1] = result_t[len(result_t) - 1] + 1
-        print(result_s, result_t)
+            print(result_s, result_t)
         if len(result_s) != len(result_t):
             return False
         else:
