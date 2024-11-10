@@ -176,6 +176,7 @@
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ImHyeonSu/programmingtest/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ImHyeonSu/programmingtest/tree/master/0919-projection-area-of-3d-shapes) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0777-toeplitz-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ImHyeonSu/programmingtest/tree/master/0919-projection-area-of-3d-shapes) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/ImHyeonSu/programmingtest/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/ImHyeonSu/programmingtest/tree/master/0866-rectangle-overlap) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ImHyeonSu/programmingtest/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/ImHyeonSu/programmingtest/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -468,6 +471,7 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ImHyeonSu/programmingtest/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/ImHyeonSu/programmingtest/tree/master/0866-rectangle-overlap) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ImHyeonSu/programmingtest/tree/master/0919-projection-area-of-3d-shapes) |
 ## Counting
 |  |
 | ------- |
