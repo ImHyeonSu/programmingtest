@@ -59,6 +59,7 @@
 | [0857-positions-of-large-groups](https://github.com/ImHyeonSu/programmingtest/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0822-unique-morse-code-words](https://github.com/ImHyeonSu/programmingtest/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Array
 |  |
 | ------- |
@@ -480,6 +482,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ImHyeonSu/programmingtest/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Queue
 |  |
 | ------- |
