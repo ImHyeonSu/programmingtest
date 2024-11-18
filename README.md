@@ -60,6 +60,7 @@
 | [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 ## Array
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ImHyeonSu/programmingtest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/ImHyeonSu/programmingtest/tree/master/0899-binary-gap) |
+| [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -445,6 +448,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ImHyeonSu/programmingtest/tree/master/0643-maximum-average-subarray-i) |
+| [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 ## Database
 |  |
 | ------- |
@@ -542,4 +546,5 @@
 | [0169-majority-element](https://github.com/ImHyeonSu/programmingtest/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ImHyeonSu/programmingtest/tree/master/0191-number-of-1-bits) |
+| [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
