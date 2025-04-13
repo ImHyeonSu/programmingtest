@@ -125,6 +125,7 @@
 | [0036-valid-sudoku](https://github.com/ImHyeonSu/programmingtest/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ImHyeonSu/programmingtest/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ImHyeonSu/programmingtest/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ImHyeonSu/programmingtest/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ImHyeonSu/programmingtest/tree/master/0088-merge-sorted-array) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ImHyeonSu/programmingtest/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ImHyeonSu/programmingtest/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ImHyeonSu/programmingtest/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/0118-pascals-triangle) |
@@ -441,6 +443,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ImHyeonSu/programmingtest/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/ImHyeonSu/programmingtest/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ImHyeonSu/programmingtest/tree/master/0561-array-partition) |
