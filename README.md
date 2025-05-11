@@ -149,6 +149,7 @@
 | [0283-move-zeroes](https://github.com/ImHyeonSu/programmingtest/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ImHyeonSu/programmingtest/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ImHyeonSu/programmingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0414-third-maximum-number) |
@@ -462,6 +463,7 @@
 | [0179-largest-number](https://github.com/ImHyeonSu/programmingtest/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ImHyeonSu/programmingtest/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/ImHyeonSu/programmingtest/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ImHyeonSu/programmingtest/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ImHyeonSu/programmingtest/tree/master/0561-array-partition) |
