@@ -62,6 +62,7 @@
 | [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 | [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 ## String Matching
 |  |
@@ -194,6 +195,7 @@
 | [0890-lemonade-change](https://github.com/ImHyeonSu/programmingtest/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ImHyeonSu/programmingtest/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ImHyeonSu/programmingtest/tree/master/0919-projection-area-of-3d-shapes) |
+| [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 ## Matrix
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ImHyeonSu/programmingtest/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ImHyeonSu/programmingtest/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ImHyeonSu/programmingtest/tree/master/0874-backspace-string-compare) |
+| [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 ## Stack
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 | [0605-can-place-flowers](https://github.com/ImHyeonSu/programmingtest/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/ImHyeonSu/programmingtest/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/ImHyeonSu/programmingtest/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 ## Sliding Window
 |  |
 | ------- |
