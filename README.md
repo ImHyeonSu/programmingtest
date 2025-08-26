@@ -197,6 +197,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/ImHyeonSu/programmingtest/tree/master/0919-projection-area-of-3d-shapes) |
 | [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [0645-set-mismatch](https://github.com/ImHyeonSu/programmingtest/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -478,6 +480,7 @@
 | [0890-lemonade-change](https://github.com/ImHyeonSu/programmingtest/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Sliding Window
 |  |
 | ------- |
