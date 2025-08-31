@@ -198,6 +198,7 @@
 | [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ImHyeonSu/programmingtest/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -481,6 +482,7 @@
 | [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ImHyeonSu/programmingtest/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Sliding Window
 |  |
 | ------- |
