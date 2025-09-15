@@ -252,6 +252,7 @@
 | [1013-fibonacci-number](https://github.com/ImHyeonSu/programmingtest/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ImHyeonSu/programmingtest/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1448-maximum-69-number](https://github.com/ImHyeonSu/programmingtest/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -488,6 +489,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ImHyeonSu/programmingtest/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ImHyeonSu/programmingtest/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/ImHyeonSu/programmingtest/tree/master/1448-maximum-69-number) |
 ## Sliding Window
 |  |
 | ------- |
