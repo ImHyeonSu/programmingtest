@@ -63,6 +63,7 @@
 | [0889-buddy-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/ImHyeonSu/programmingtest/tree/master/0979-di-string-match) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1873-longest-nice-substring](https://github.com/ImHyeonSu/programmingtest/tree/master/1873-longest-nice-substring) |
 ## String Matching
 |  |
@@ -483,6 +484,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ImHyeonSu/programmingtest/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ImHyeonSu/programmingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/ImHyeonSu/programmingtest/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ImHyeonSu/programmingtest/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Queue
 |  |
 | ------- |
