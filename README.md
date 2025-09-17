@@ -201,6 +201,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ImHyeonSu/programmingtest/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ImHyeonSu/programmingtest/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ImHyeonSu/programmingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ImHyeonSu/programmingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1018-largest-perimeter-triangle](https://github.com/ImHyeonSu/programmingtest/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ImHyeonSu/programmingtest/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ImHyeonSu/programmingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -490,6 +492,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ImHyeonSu/programmingtest/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ImHyeonSu/programmingtest/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/ImHyeonSu/programmingtest/tree/master/1448-maximum-69-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ImHyeonSu/programmingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Sliding Window
 |  |
 | ------- |
