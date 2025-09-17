@@ -1,9 +1,10 @@
 class Solution:
     def minSubsequence(self, nums: list[int]) -> list[int]:
         nums.sort(reverse=True)
-        for i in range(len(nums)):
-            numbers = i
-            if sum(nums[: i + 1]) > sum(nums[i + 1 :]):
-                break
+        total = sum(nums)
+        current_sum = 0
 
-        return nums[: i + 1]
+        for i in range(len(nums)):
+            current_sum += nums[i]
+            if current_sum > total - current_sum:
+                return nums[: i + 1]
